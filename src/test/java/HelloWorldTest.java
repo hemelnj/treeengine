@@ -31,4 +31,8 @@ public class HelloWorldTest {
     void thirdTest() {
         System.out.println("third test");
     }
+    @Test
+    void fourthTest() {
+        System.out.println("fourth Test");
+    }
 }
