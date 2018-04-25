@@ -44,4 +44,9 @@ public class HelloWorldTest {
     void sixthTest() {
         System.out.println("fifth Test");
     }
+    
+    @Test
+    void sevenTest() {
+        System.out.println("fifth Test");
+    }
 }
